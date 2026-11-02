@@ -1,0 +1,1 @@
+powershell -Command "Write-Output 'Starting MELODIESPARK MVP Server Setup' > '$env:USERPROFILE\desktop\setup.log'"
